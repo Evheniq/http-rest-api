@@ -12,7 +12,7 @@
 *.out
 
 # Config
-configs
+configs/*.toml
 
 # other
 .idea
